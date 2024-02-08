@@ -1,0 +1,38 @@
+[
+  {
+    "authorName": "Mr.Mostoa",
+    "readingTime": "05 min read",
+    "description": "Ho to get your first job as a self taught programmer",
+    "poster": "https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=740&t=st=1707375682~exp=1707376282~hmac=a0d2d7cd5b1896c42ee2c8633fdb08f33f982e2a2b74ac523b981d468242ffe3",
+    "level": "beginners",
+    "category": "programming",
+    "publishedDate": "Mar 4(4 days ago)"
+  },
+  {
+    "authorName": "Mr.Sanjit",
+    "readingTime": "10 min read",
+    "description": "6 Essential React Libraries You Should Know",
+    "poster": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1707375805~exp=1707376405~hmac=8c0066986edba2cd41e279ebfeb27522c6c3d98f0d018d6865ece6a1a1797b08",
+    "level": "beginners",
+    "category": "programming",
+    "publishedDate": "Mar 14(4 days ago)"
+  },
+  {
+    "authorName": "Mr.Arif",
+    "readingTime": "15 min read",
+    "description": "Understanding Async/Await in TypeScript:",
+    "poster": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1707375894~exp=1707376494~hmac=b450874f6dc0bed6ce5d41c7ab2bd469dc257bf8f0610789bcc6baffc278c35e",
+    "level": "beginners",
+    "category": "programming",
+    "publishedDate": "Mar 14(4 days ago)"
+  },
+  {
+    "movieName": "Mr.Avijit",
+    "readingTime": "20 min read",
+    "description": "15 Frontend Developer Interview Questions",
+    "poster": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740&t=st=1707376063~exp=1707376663~hmac=553f8e969bec6746d935e0ddea5536207793f9019b235c2b24425c581b1557c6",
+    "level": "beginners",
+    "category": "programming",
+    "publishedDate": "Mar 14(4 days ago)"
+  }
+]
