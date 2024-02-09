@@ -1,38 +1,42 @@
 [
   {
     "authorName": "Mr.Mostoa",
+    "authorImage": "https://img.freepik.com/free-photo/horizontal-portrait-smiling-happy-young-pleasant-looking-female-wears-denim-shirt-stylish-glasses-with-straight-blonde-hair-expresses-positiveness-poses_176420-13176.jpg?w=740&t=st=1707456815~exp=1707457415~hmac=b378c38194e7d0f44f0dab56de419bce68c6b23624fc7ebfeacd686e2f2687aa",
     "readingTime": "05 min read",
     "description": "Ho to get your first job as a self taught programmer",
     "poster": "https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=740&t=st=1707375682~exp=1707376282~hmac=a0d2d7cd5b1896c42ee2c8633fdb08f33f982e2a2b74ac523b981d468242ffe3",
-    "level": "beginners",
-    "category": "programming",
+    "level": "#beginners",
+    "category": "#programming",
     "publishedDate": "Mar 4(4 days ago)"
   },
   {
     "authorName": "Mr.Sanjit",
+    "authorImage": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1707456853~exp=1707457453~hmac=01803e97fd1f3ff1d1a463aa4d782aaea567cf1fc8d074c92f876ced6658792d",
     "readingTime": "10 min read",
     "description": "6 Essential React Libraries You Should Know",
     "poster": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1707375805~exp=1707376405~hmac=8c0066986edba2cd41e279ebfeb27522c6c3d98f0d018d6865ece6a1a1797b08",
-    "level": "beginners",
-    "category": "programming",
+    "level": "#beginners",
+    "category": "#programming",
     "publishedDate": "Mar 14(4 days ago)"
   },
   {
     "authorName": "Mr.Arif",
+    "authorImage": "https://img.freepik.com/free-photo/pleasant-looking-caucasian-female-with-long-hair-wearing-yellow-casual-shirt-having-good-mood-looking-happily-camera_176532-11558.jpg?w=740&t=st=1707456913~exp=1707457513~hmac=8395bd1176a946e5555783e299bbca694221565f40e399feebdad02cd6d5bac8",
     "readingTime": "15 min read",
     "description": "Understanding Async/Await in TypeScript:",
     "poster": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1707375894~exp=1707376494~hmac=b450874f6dc0bed6ce5d41c7ab2bd469dc257bf8f0610789bcc6baffc278c35e",
-    "level": "beginners",
-    "category": "programming",
+    "level": "#beginners",
+    "category": "#programming",
     "publishedDate": "Mar 14(4 days ago)"
   },
   {
     "authorName": "Mr.Avijit",
+    "authorImage": "https://img.freepik.com/premium-photo/portrait-young-latin-woman-studio_58466-7049.jpg?w=740",
     "readingTime": "20 min read",
     "description": "15 Frontend Developer Interview Questions",
     "poster": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740&t=st=1707376063~exp=1707376663~hmac=553f8e969bec6746d935e0ddea5536207793f9019b235c2b24425c581b1557c6",
-    "level": "beginners",
-    "category": "programming",
+    "level": "#beginners",
+    "category": "#programming",
     "publishedDate": "Mar 14(4 days ago)"
   }
 ]
