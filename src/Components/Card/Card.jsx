@@ -47,7 +47,7 @@ const Card = () => {
         <Button>Sort By Date</Button>
       </span>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:px-12 my-6">
-        {/* {data.map((singleData) => {
+        {/* {data.map ((singleData) => {
           // console.log(singleData);
           return <SingleData singleData={singleData} />;
         })} */}

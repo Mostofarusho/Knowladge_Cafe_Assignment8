@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Singledata from '../SingleData/SingleData';
+import SideCart from '../SideCart/SideCart';
 
-const Article = () => {
+const Article = ({ handleReadTime,handleBookMark,handleBookMarkDescription }) => {
     const [article, setArticle] = useState([]);
 
 
@@ -15,9 +16,13 @@ const Article = () => {
             {article.map((singleData) => (
                 <Singledata
                     singleData={singleData}
+                    handleReadTime={handleReadTime}
+                    handleBookMark={handleBookMark}
+                    handleBookMarkDescription={handleBookMarkDescription}
                     key={singleData.id}
 
                 />
+
             ))}
 
 
@@ -26,3 +31,7 @@ const Article = () => {
 };
 
 export default Article;
+{/* <SideCart
+    singleData={singleData}
+    key={singleData.id}
+/> */}
